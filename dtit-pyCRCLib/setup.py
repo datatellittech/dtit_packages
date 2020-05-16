@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup(
   name="dtit.pyCRCLib",
-  version="0.0.1",
+  version="0.0.2",
   author="sunboss_uw",
   author_email="dev@datatellit.com",
   description="This is DTIT CRC library.",

@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: dtit.pyCRCLib
-Version: 0.0.1
+Version: 0.0.2
 Summary: This is DTIT CRC library.
 Home-page: https://github.com/datatellittech/dtit_packages
 Author: sunboss_uw
@@ -12,7 +12,7 @@ Description: # CRC Library
         This is DTIT CRC library, supporting ModBus and NB-IoT CRC16 for now.
         
         ### Install
-        pip install pyCRCLib
+        pip install dtit.pyCRCLib
         
         ### Check
         Execute
