@@ -4,7 +4,7 @@
 This is DTIT CRC library, supporting ModBus and NB-IoT CRC16 for now.
 
 ### Install
-pip install pyCRCLib
+pip install dtit.pyCRCLib
 
 ### Check
 Execute
