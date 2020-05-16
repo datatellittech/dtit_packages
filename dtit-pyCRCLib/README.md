@@ -9,7 +9,7 @@ pip install dtit.pyCRCLib
 ### Check
 Execute
    
-   python dtit\pyCRCLib\tests\hello.py
+          * python dtit\pyCRCLib\tests\hello.py *
 
 should echo with "dtit.pyCRCLib"
 

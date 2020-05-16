@@ -1,7 +1,7 @@
 Metadata-Version: 2.1
-Name: dtit-pyCRCLib
-Version: 0.0.1
-Summary: This is DTIT CRC library.
+Name: dtit.microFeaturesGenerator
+Version: 0.0.2
+Summary: This is DTIT microFeaturesGenerator library.
 Home-page: https://github.com/datatellittech/dtit_packages
 Author: sunboss_uw
 Author-email: dev@datatellit.com
@@ -9,10 +9,17 @@ License: UNKNOWN
 Description: # CRC Library
         
         ## Introduction
-        This is DTIT CRC library, supporting ModBus and NB-IoT CRC16 for now.
+        STM32 compatible MFCC & SFFT using LiteMath
         
         ### Install
-        pip install pyCRCLib
+        pip install dtit.microFeaturesGenerator
+        
+        ### Check
+        Execute
+           
+              * python dtit\microFeaturesGenerator\tests\hello.py *
+        
+        should echo with "dtit.microFeaturesGenerator"
         
         ### Usage
         Please refer to examples in tests directory.
